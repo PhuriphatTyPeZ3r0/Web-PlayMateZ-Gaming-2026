@@ -4,7 +4,7 @@
 
 [![Institution: PIM](https://img.shields.io/badge/Institution-PIM-003366?style=for-the-badge&logo=google-classroom&logoColor=white)](https://www.pim.ac.th/)
 [![Program: CAI](https://img.shields.io/badge/Program-CAI-blue?style=for-the-badge)](https://www.pim.ac.th/)
-[![Course: 1323416 Selected Topics](https://img.shields.io/badge/Course-1323416%20Selected%20Topics%201-orange?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0/Course-1323416-Selected-Topics-CPE-AI-1-2025)
+[![Course: 1323416 Selected Topics](https://img.shields.io/badge/Course-1323416%20Selected%20Topics%201-orange?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0/Course-1323416-Selected-Topics-CAI-1-2025)
 [![Stack: Bootstrap 5](https://img.shields.io/badge/Tech%20Stack-Bootstrap%205%20%7C%20JS%20ES6-purple?style=for-the-badge)](https://getbootstrap.com/)
 [![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0)
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-[<img src="https://api.iconify.design/material-symbols:globe-asia.svg?color=%23FFFFFF" width="16" height="16" align="center" /> **เปิดชมเว็บไซต์ตัวอย่าง (Live Demo)**](https://phuriphattypez3r0.github.io/Web-PlayMateZ-Gaming-2026/) &nbsp;|&nbsp; [<img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%23FFFFFF" width="16" height="16" align="center" /> **คลังรายวิชาหลัก (Course-1323416)**](https://github.com/PhuriphatTyPeZ3r0/Course-1323416-Selected-Topics-CPE-AI-1-2025)
+[<img src="https://api.iconify.design/material-symbols:globe-asia.svg?color=%23FFFFFF" width="16" height="16" align="center" /> **เปิดชมเว็บไซต์ตัวอย่าง (Live Demo)**](https://phuriphattypez3r0.github.io/Web-PlayMateZ-Gaming-2026/) &nbsp;|&nbsp; [<img src="https://api.iconify.design/material-symbols:school-outline.svg?color=%23FFFFFF" width="16" height="16" align="center" /> **คลังรายวิชาหลัก (Course-1323416)**](https://github.com/PhuriphatTyPeZ3r0/Course-1323416-Selected-Topics-CAI-1-2025)
 
 </div>
 
