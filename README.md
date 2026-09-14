@@ -9,7 +9,7 @@
 [![Status: Completed](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/PhuriphatTyPeZ3r0)
 
 **เว็บแพลตฟอร์มจับคู่เพื่อนเล่นเกมและคอมมูนิตี้สำหรับเกมเมอร์ (Gamer Matching Web Platform)**  
-*โครงงานภาคปฏิบัติในรายวิชา 1323416 Selected Topics in CPE & AI 1 (Full-Stack Web Development Bootcamp)*  
+*โครงงานภาคปฏิบัติในรายวิชา 1323416 Selected Topics in CAI 1 (Full-Stack Web Development Bootcamp)*  
 *สาขาวิชาวิศวกรรมคอมพิวเตอร์และปัญญาประดิษฐ์ (CAI) — สถาบันการจัดการปัญญาภิวัฒน์ (PIM)*
 
 <br/>
